@@ -16,7 +16,8 @@ dependencies {
 1. Aync Task
 2. Base RecyclerView Adapter
 3. Serialization
-    * Obhect Serialization
+    * Object Serialization
+    * File Name Encrypter
 4. Dialogs
 5. Segmented Group
 6. TypeWriter View
