@@ -9,7 +9,7 @@ Add this to build.gradle(Module:app)
   ``` 
   ``` 
 dependencies {
-    compile 'com.crealsolutions.real-lib:real-lib:1.0.3'
+    compile 'com.crealsolutions.real-lib:real-lib:1.0.4'
 }
 ``` 
 # Library includes
