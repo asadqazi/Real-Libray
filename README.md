@@ -1,12 +1,6 @@
 # Real-Libray
 Add this to build.gradle(Module:app)
-``` 
- repositories {
-        maven {
-            url 'https://dl.bintray.com/crealsolutions/real-lib/'
-        }
-    }
-  ``` 
+
   ``` 
 dependencies {
     compile 'com.crealsolutions.real-lib:real-lib:1.0.4'
